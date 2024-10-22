@@ -1,5 +1,5 @@
 # int6_miniproject1
-[![CI](https://github.com/nogibjj/int6_miniproject1/actions/workflows/ci.yml/badge.svg)](https://github.com/nogibjj/int6_miniproject1/actions/workflows/ci.yml)
+[![Rust CI/CD Pipeline](https://github.com/nogibjj/int6_miniproject7/actions/workflows/rustci.yml/badge.svg)](https://github.com/nogibjj/int6_miniproject7/actions/workflows/rustci.yml)
 
 This repo contains work for mini-project 7. It sets up an environment on codespaces and uses Github Actions to run a Makefile for the following: `make rust_install`, `make rust_format`, `make rust_lint`, `make rust_test`. 
 
