@@ -39,7 +39,7 @@ rust_test:
 rust_run:
 	cargo run
 
-rust_release:
+rust_build:
 	cargo build --release
 
 rust_all: format lint test run
